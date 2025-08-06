@@ -21,9 +21,3 @@ This is a Streamlit-based Question Answering (QA) application that allows users 
 - **DOCX** – Upload `.docx` or `.doc` files
 - **TXT** – Upload `.txt` files
 - **Text** – Direct text input into a form
-
----
-
-## 🧠 Architecture Overview
-
-# Advanced-RAG-Q-A-System
